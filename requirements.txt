@@ -2,6 +2,8 @@ fastapi
 uvicorn
 requests
 pillow
+python-multipart
+
 
 torch==2.9.1+cpu
 torchvision==0.24.1+cpu
